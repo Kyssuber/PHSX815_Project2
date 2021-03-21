@@ -1,4 +1,4 @@
-# PHSX815_Project1
+# PHSX815_Project2
 
 This repository contains two principal programs: DieRollFaceThree.py and DiceAnalysis.py. Random.py contains the random class used to create
 categorical distributions given the probabilities of each die face.
